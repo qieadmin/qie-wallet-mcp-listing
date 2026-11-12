@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "qie-wallet": {
+      "url": "https://mcp.qie.digital/mcp"
+    }
+  }
+}

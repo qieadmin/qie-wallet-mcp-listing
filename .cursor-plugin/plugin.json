@@ -1,0 +1,23 @@
+{
+  "name": "qie-wallet",
+  "displayName": "QIE Wallet",
+  "description": "Read-only QIE chain data: balances, transaction status, tokens, network facts and QIE ID lookups. No keys, no sends.",
+  "version": "0.1.0",
+  "author": {
+    "name": "QIE Wallet (Pty) Ltd",
+    "email": "info@qie.digital"
+  },
+  "publisher": "QIE Wallet (Pty) Ltd",
+  "homepage": "https://mcp.qie.digital",
+  "repository": "https://github.com/qieadmin/qie-wallet-mcp-listing",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "qie",
+    "qie-id",
+    "blockchain",
+    "mcp",
+    "wallet"
+  ],
+  "category": "finance"
+}
